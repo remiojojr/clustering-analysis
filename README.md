@@ -1,0 +1,3 @@
+# clustering-analysis
+
+Cineplex was facing a problem of declining gross margins and an increase in operating costs impacting income partly due to COVID-19. So with the use of Scene loyalty program data and Scotiabank data points, we were able to understand consumer earn and burn rates for points as well as their demographics. With this, an ML algorithm was employed to provide insights. Our clustering model allowed us to create personas based on specific customer segments in order to provide recommendations for pivotal marketing strategies and revenue growth strategies. As a result, we identified the 3 most profitable segments to pursue as well as the key product mix packages to offer.
